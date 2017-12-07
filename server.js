@@ -2,7 +2,7 @@ var express = require("express");
 var bodyParser = require("body-parser");
 
 var app = express();
-var port = 3000;
+var port = process.env.PORT || 3000;
 
 // using the express.static middleware to serve static content for the app from the public directory within the application directory
 app.use(express.static("public"));
