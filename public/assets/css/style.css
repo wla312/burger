@@ -1,0 +1,30 @@
+body {
+	background-color: #fce497;
+}
+
+h2 {
+	font-family: 'Bungee', cursive;
+}
+
+button {
+	font-family: 'Bungee', cursive;
+}
+
+img {
+	height: 400px;
+}
+
+.jumbotron {
+	background-color: white;
+	text-align: center;
+	font-family: 'Bungee', cursive;
+}
+
+.col-sm-5 {
+	background-color: white;
+	border-radius: 6px;
+}
+
+#addform {
+	text-align: center;
+}
