@@ -1,7 +1,7 @@
 # BurgerBoss
 A Bob's Burgers app that lets users input the names of burgers they'd like to eat. Built with MySQL, Node, Express, Handlebars and a self-made ORM.
 
-Check out the live version here <https://floating-castle-91357.herokuapp.com/>!
+Check out the live version [here!] (<https://floating-castle-91357.herokuapp.com/>)
 
 Node and MySQL are used to query and route data, Handlebars is used to generate HTML.
 
